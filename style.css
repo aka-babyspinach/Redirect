@@ -1,0 +1,18 @@
+body {
+font-size: 40px;
+line-height: 1.5;
+color: black;
+/*add some padding on the top to create space for fixed header*/
+padding-top: 30px;
+padding-left: 150px;
+width: 720px;
+}
+
+a {
+  color: magenta;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: yellow;
+}
