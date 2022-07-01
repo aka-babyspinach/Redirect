@@ -1,11 +1,11 @@
 body {
-font-size: 40px;
-line-height: 1.5;
-color: black;
-/*add some padding on the top to create space for fixed header*/
-padding-top: 30px;
-padding-left: 150px;
-width: 720px;
+  font-size: 40px;
+  line-height: 1.5;
+  color: black;
+  
+  padding-top: 30px;
+  padding-left: 150px;
+  width: 720px;
 }
 
 a {
